@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">StripDemo</string>
+    <string name="com_stripe_publishable_key">sk_test_yan3HAd1QFyOdXySqnnRX79e</string>
+</resources>
